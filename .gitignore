@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -35,3 +36,8 @@ var/
 # Flask
 instance/
 .webassets-cache
+=======
+venv/
+.venv/
+__pycache__/
+>>>>>>> dev
