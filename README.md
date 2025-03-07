@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MLOps Assignment 1
 
 A simple Flask web application created as part of MLOps course assignment.
@@ -42,6 +42,4 @@ The server will start on `http://localhost:5000` with the following endpoints:
 ## Development
 
 The application runs in debug mode, allowing for automatic reloading when code changes are made.
-=======
-# Mlops_Assignment-\_1
->>>>>>> dev
+
